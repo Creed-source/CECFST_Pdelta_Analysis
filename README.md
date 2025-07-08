@@ -1,5 +1,5 @@
 # CECFST_Pdelta_Analysis
-### 1. **Optimised analysis** – run it in any standard Python environment to optimise P-delta analysis of CECFST columns.
+### 1. **Optimised analysis** – all you need to do is just run the CECFST_Pdelta_Analysis.py.
    
 ### 2. **Run anywhere** – for the fastest experience, open the Google Colab notebook and copy, paste, and run.
    
