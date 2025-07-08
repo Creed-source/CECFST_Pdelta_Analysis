@@ -4,7 +4,7 @@
 # ── Geometry (mm) ────────────────────────────────────────────────────────────
 B_mm        = 210.0   # outer dimension
 D_outer_mm  = 140.0   # steel tube outer diameter
-t_mm        =   4.8   # tube thickness  (set 0 for solid tube)
+t_mm        =   4.8   # tube thickness
 
 # Rebars (assume 4 bars at corners)
 cover_mm      = 40.0   # concrete cover to bar centre
